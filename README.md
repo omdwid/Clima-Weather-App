@@ -1,6 +1,6 @@
 # clima
 
-A new Flutter project.
+This is a weather app.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+https://user-images.githubusercontent.com/94010815/193347058-e70ec2eb-ebc6-418b-9079-ef4155d8ddc7.mp4
+
